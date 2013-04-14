@@ -2,7 +2,7 @@
 
 /*
   Plugin Name: qa_unicornify
-	Plugin URI: 
+	Plugin URI: https://github.com/chejug/unicornify-avatar.git
 	Plugin Description: Change the gravatar to unicornify
 	Plugin Version: 1.0
 	Plugin Date: 2013-04-13
