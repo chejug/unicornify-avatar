@@ -15,8 +15,8 @@ Each member has its unique avatar. It give the theme a nice look.
 
  Installation:
 
-Download the zip file
+To download directly, go to the project page and click Download
 
 unzip it and put the folder into plugin folder, 
 
-Go to admin and Turn on Unicornify Avatar 
+navigate to your site, go to Admin -> Plugins on your q2a install and select the 'Unicornify Avatar' option, then 'Save'.
