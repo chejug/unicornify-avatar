@@ -17,4 +17,6 @@ Each member has its unique avatar. It give the theme a nice look.
 
 Download the zip file
 
-unzip it and put the folder into plugin folder, and you are all done
+unzip it and put the folder into plugin folder, 
+
+Go to admin and Turn on Unicornify Avatar 
