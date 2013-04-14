@@ -1,7 +1,7 @@
 <?php
 
 /*
-  Plugin Name: qa_unicornify
+  Plugin Name: Unicornify Avatar
 	Plugin URI: https://github.com/chejug/unicornify-avatar.git
 	Plugin Description: Change the gravatar to unicornify
 	Plugin Version: 1.0
