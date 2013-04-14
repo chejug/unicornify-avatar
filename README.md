@@ -15,7 +15,9 @@ Each member has its unique avatar. It give the theme a nice look.
 
  Installation:
 
-To download directly, go to the project page and click Download
+To download directly, go to the [link](https://github.com/chejug/unicornify-avatar.git "project page") and click Download
+
+
 
 unzip it and put the folder into plugin folder, 
 
